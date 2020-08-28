@@ -1,2 +1,2 @@
-# Bullets-and-Walls
-To check if the collision of a bullet with a wall is safe or not
+# p5.play-boilerplate
+Boiler plate for p5.play
